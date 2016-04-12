@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1460467462 source:c:\users\thompson\documents\c++\na-wa\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
