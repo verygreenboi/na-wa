@@ -22,56 +22,56 @@ using namespace std;
 //    return input;
 //}
 
-int main()
-{
-
-    char i;
-
-    i = getChar();
-
-    cin.get();
-//    char x;
-//    x=getint();
+//int main()
+//{
 //
-//    printf("Main Function =>\n");
-//    printf("Integer : %d\n",x);
+//    //char i;
 //
-//    return 0;
-//	char ch;
-//    int n;
+////    i = getChar();
 //
+//    //cin.get();
+////    char x;
+////    x=getint();
+////
+////    printf("Main Function =>\n");
+////    printf("Integer : %d\n",x);
+////
+////    return 0;
+////	char ch;
+////    int n;
+////
+////
+////
+////	printf("\nEnter a lower cased alphabet (a-z) :");
+//////    scanf("%c", &ch);
+////
+////
+////	if(ch < 'a' || ch > 'z')
+////
+////	printf("\nCharacter is not a lower cased Alphabet");
+////
+////
+////	else
+////    switch(ch)
+////	{
+////		case 'a' :
+////		case 'e' :
+////		case 'i' :
+////		case 'o' :
+////		case 'u' :
+////			printf("\nCharacter is a Vowel");
+////			break;
+////		case 'z' :
+////			printf("\nLast Alphabet (z) Entered");
+////			break;
+////		default :
+////			printf("\nCharacter is a consonant");
+////			break;
+////
+////	}
+////
+////	getchar();
+////
+////    return 0;
 //
-//
-//	printf("\nEnter a lower cased alphabet (a-z) :");
-////    scanf("%c", &ch);
-//
-//
-//	if(ch < 'a' || ch > 'z')
-//
-//	printf("\nCharacter is not a lower cased Alphabet");
-//
-//
-//	else
-//    switch(ch)
-//	{
-//		case 'a' :
-//		case 'e' :
-//		case 'i' :
-//		case 'o' :
-//		case 'u' :
-//			printf("\nCharacter is a Vowel");
-//			break;
-//		case 'z' :
-//			printf("\nLast Alphabet (z) Entered");
-//			break;
-//		default :
-//			printf("\nCharacter is a consonant");
-//			break;
-//
-//	}
-//
-//	getchar();
-//
-//    return 0;
-
-}
+//}

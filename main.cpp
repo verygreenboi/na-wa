@@ -55,6 +55,7 @@ int main()
        cout << "= You entered a number            =" << endl;
        cout << "= Hit any key to exit the program =" << endl;
        cout << "==================================="  << endl;
+       cin.get();
        return 0;
     } else{
         bool isVowel = getVowel(x);

@@ -1,7 +1,11 @@
 # depslib dependency file v1.0
-1460467462 source:c:\users\thompson\documents\c++\na-wa\main.cpp
+1460616805 source:c:\users\thompson\documents\c++\na-wa\main.cpp
 	<iostream>
 	<stdio.h>
 	<stdlib.h>
 	<ctype.h>
+
+1460615572 source:c:\users\thompson\documents\c++\na-wa\na wa.cpp
+	<stdio.h>
+	<iostream>
 
